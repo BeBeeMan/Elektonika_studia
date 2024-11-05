@@ -1,4 +1,7 @@
 # Elektonika_studia
 WEiTi
+____________________
 
-![gif](/LLuP.gif)
+<p align="center">
+  <img src="LLuP.gif" />
+</p>
