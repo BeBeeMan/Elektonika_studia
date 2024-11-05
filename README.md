@@ -18,5 +18,5 @@ ____________________
 7. wydrukuj plik worda
 
 <p align="center">
-  <img src="excel.png" />
+  <img src="ecel.png" />
 </p>
